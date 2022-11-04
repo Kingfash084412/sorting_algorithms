@@ -1,7 +1,12 @@
 # 0x1B. C - Sorting algorithms & Big O
-# 0x1B. C - Sorting algorithms & Big O
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
-# 0x1B. C - Sorting algorithms & Big O
+</div>
+      <div id="img-div">
+        <img src="" alt="" id="image" style="max-width:100%;display:block;" height="">
+        <div id="img-caption">
+		<div id="img-div">
+      <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png">
+      <p id="img-caption">Albert Einstein gazing, thinking about a complicated physics formula.</p>
+    </div>
 
 ## Description
 What you should learn from this project:
